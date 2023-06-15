@@ -1,11 +1,11 @@
 {
 	"name": "__MSG_extensionName__",
 	"description": "__MSG_extensionDescription__",
-	"version": "2.6.3",
+	"version": "2.6.4",
 	"manifest_version": 2,
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "7esoorv3@alefvanoon.anonaddy.me",
+			"id": "{6b24bd15-505e-4b84-b1be-7bc0adbd23be}",
 			"strict_min_version": "67.0"
 		}
 	},
@@ -83,6 +83,5 @@
 		}
 	},
 	"default_locale": "en",
-	"update_url": "https://raw.githubusercontent.com/libredirect/libredirect/master/src/updates/updates.xml",
 	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAroWDSoSRZ1scj+eJRrvnhJbrqXTKnhQuxs6+AJg16sqr0bsMdFV+MSY4i4xnK+K5WOYkBliWXgUyk/wzicoAjOnSJddrL/Md4FuWHI2NVIkrlsLOrYkygi5OLqGPajRH/w8Cdmg7KzEpXe/OnYV0/qS8li8huEdTzdeLdhfbiVl1j3DOr4OJALQ7mPeeNFHFo/oVQ+OkSezWLezA5jUGfhtzPYV6u1TXzX7lCi8E/BbDbwkvvXOMcjXCv08kjdLOY2djCA2a6zr0xAb3q8DlexAMZ8vMof7AQRFtBKhLc9n9VFoipMMdBOVQQj/eIcRILBrmkcZNnJxFKiHNJ+NcZQIDAQAB"
 }

@@ -1,5 +1,5 @@
 {
-	"name": "libredirect",
+	"name": "libredirect_redditarchive",
 	"description": "Redirects YouTube, Twitter, TikTok and more to privacy friendly frontends.",
 	"engines": {
 		"node": ">=16.13.1",
@@ -14,14 +14,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/libredirect/libredirect.git"
+		"url": "git+https://github.com/LeaPhant/libredirect_redditarchive.git"
 	},
 	"author": "LibRedirect",
 	"license": "GPL-3.0-only",
 	"bugs": {
-		"url": "https://github.com/libredirect/libredirect/issues"
+		"url": "https://github.com/LeaPhant/libredirect_redditarchive/issues"
 	},
-	"homepage": "https://libredirect.github.io",
+	"homepage": "https://github.com/LeaPhant/libredirect_redditarchive",
 	"devDependencies": {
 		"web-ext": "^7.2.0",
 		"pug-cli": "^1.0.0-alpha6"
