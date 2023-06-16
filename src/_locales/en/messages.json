@@ -1,10 +1,10 @@
 {
     "extensionName": {
-        "message": "LibRedirect",
+        "message": "LibRedirect RA",
         "description": "name of the extension"
     },
     "extensionDescription": {
-        "message": "A web extension that redirects popular sites to alternative privacy-friendly frontends and backends",
+        "message": "A fork of libredirect which adds Internet Archive as a reddit frontend",
         "description": "description of the extension"
     },
     "switchInstance": {
