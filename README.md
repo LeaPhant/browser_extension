@@ -1,14 +1,8 @@
 <img src="./img/libredirect_full.svg" height="50"/>
 
-A browser extension that redirects YouTube, Twitter, TikTok... requests to alternative privacy friendly frontends and backends.
+A fork of libredirect to add reddit archival features. Browser extension that redirects YouTube, Twitter, TikTok... requests to alternative privacy friendly frontends and backends.
 
-<a href="https://addons.mozilla.org/firefox/addon/libredirect/">
-    <img src ="./img/badge-amo.png" height=60 >
-</a>
-&nbsp;
-<a href="https://libredirect.github.io/download_chromium.html">
-    <img src ="./img/badge-chromium.png" height=60 >
-</a>
+<a href="https://github.com/LeaPhant/libredirect_redditarchive/releases/download/2.6.4/LibRedirectRA-2.6.4.xpi">Download</a> for Firefox.
 
 ## Translate
 <a href="https://hosted.weblate.org/projects/libredirect/extension">
